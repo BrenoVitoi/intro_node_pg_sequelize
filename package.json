@@ -1,7 +1,7 @@
 {
-  "name": "aula_node_postgres",
+  "name": "intro_node_pg_sequelize",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Repositório utilizado na aula de introdução ao Node com Postgres e Sequelize**",
   "main": "index.js",
   "dependencies": {
     "pg": "^7.8.1",
@@ -10,5 +10,13 @@
   "devDependencies": {},
   "scripts": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoVitoi/intro_node_pg_sequelize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrenoVitoi/intro_node_pg_sequelize/issues"
+  },
+  "homepage": "https://github.com/BrenoVitoi/intro_node_pg_sequelize#readme"
 }
